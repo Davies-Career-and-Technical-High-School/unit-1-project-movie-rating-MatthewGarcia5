@@ -1,2 +1,2 @@
-javac 
-java 
+javac Movie.java
+java Movie
